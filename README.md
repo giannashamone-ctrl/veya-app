@@ -12,7 +12,12 @@ Built with Filecoin to give users full ownership of their journey.
 
 ## ⛓️ Blockchain Integration
 
-Veya leverages blockchain technology to create a system that is **trustworthy, transparent, and user-owned**, especially in an industry where credibility and authenticity are essential.
+Veya leverages Filecoin to create a new category of user-owned data: verifiable records of personal growth and support. Each key moment from predicted life phases to support sessions and outcomes is encrypted and stored on decentralized infrastructure, ensuring it remains persistent, tamper-resistant, and independent of any single platform.
+
+This approach transforms traditionally invisible, high-context human experiences into structured, user-controlled data that can be revisited, built upon, or selectively shared. By anchoring these journeys on Filecoin, Veya introduces a novel use case for decentralized storage: capturing meaningful, longitudinal human data that is private by default but permissible by design.
+
+In doing so, Veya demonstrates how Filecoin can support not just static data storage, but dynamic, evolving records tied to real-world human coordination unlocking a new primitive for systems that rely on trust, context, and continuity over time.
+
 
 ### 🔐 1. Identity & Trust Layer — Decentralized Identity (DID)
 
