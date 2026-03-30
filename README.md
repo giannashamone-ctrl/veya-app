@@ -1,5 +1,13 @@
 # veya-app
-Veya is a platform that connects users to the right healer, coach, or facilitator based on the life phase they are currently moving through.  Users enter their birth data → receive upcoming life phases → and get matched with support to navigate or maximize those moments.
+Veya — Support, exactly when it matters
+Most people don’t get support when they need it — they get it too late.
+
+Veya is a timing-based support system that connects users to the right coach, healer, or facilitator at key life moments. By mapping upcoming phases in advance, Veya helps users navigate change, pressure, or expansion with the right guidance at the right time.
+
+Each interaction is captured as a private, user-owned record, creating a living history of personal growth and what actually helped.
+
+Built with Filecoin to give users full ownership of their journey.
+
 # 🌌 Veya — Timing Meets the Right Support
 
 ## ⛓️ Blockchain Integration
